@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://raz-vanbert.github.io/csb-5ch78d/static/css/main.9af94217.chunk.css",
+    "main.js": "https://raz-vanbert.github.io/csb-5ch78d/static/js/main.5744eb58.chunk.js",
+    "main.js.map": "https://raz-vanbert.github.io/csb-5ch78d/static/js/main.5744eb58.chunk.js.map",
+    "runtime-main.js": "https://raz-vanbert.github.io/csb-5ch78d/static/js/runtime-main.46fd1349.js",
+    "runtime-main.js.map": "https://raz-vanbert.github.io/csb-5ch78d/static/js/runtime-main.46fd1349.js.map",
+    "static/js/2.3e4f51d1.chunk.js": "https://raz-vanbert.github.io/csb-5ch78d/static/js/2.3e4f51d1.chunk.js",
+    "static/js/2.3e4f51d1.chunk.js.map": "https://raz-vanbert.github.io/csb-5ch78d/static/js/2.3e4f51d1.chunk.js.map",
+    "index.html": "https://raz-vanbert.github.io/csb-5ch78d/index.html",
+    "static/css/main.9af94217.chunk.css.map": "https://raz-vanbert.github.io/csb-5ch78d/static/css/main.9af94217.chunk.css.map",
+    "static/js/2.3e4f51d1.chunk.js.LICENSE.txt": "https://raz-vanbert.github.io/csb-5ch78d/static/js/2.3e4f51d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46fd1349.js",
+    "static/js/2.3e4f51d1.chunk.js",
+    "static/css/main.9af94217.chunk.css",
+    "static/js/main.5744eb58.chunk.js"
+  ]
+}
